@@ -1,0 +1,16 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "description": "booklist",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "book",
+    "genre",
+    "author"
+  ],
+  "author": "ryoune",
+  "license": "ISC"
+}
